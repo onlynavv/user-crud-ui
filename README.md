@@ -1,6 +1,6 @@
 demo click [here](https://user-crud-ui-task.netlify.app/)
 
-Full completed version is [here](https://user-crud-react-app.netlify.app/)
+Full completed version is [here](https://user-crud-react-app.netlify.app/) checkout
 Full version github [url](https://github.com/onlynavv/user-crud/tree/main/user-crud-app)
 
 Homepage
